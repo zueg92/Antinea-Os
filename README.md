@@ -1,2 +1,1 @@
-# Antinea-Os
-Antinea is a conceptual architecture for information flow governance and decision support based on Melma (flow), Nodes (articulations) and Legante (structural cohesion and limits).
+Antinea is a conceptual architecture designed to govern information flow, manage incoherence and support decision processes through a structure composed of Melma (information flow), Nodes (information articulations) and Legante (structural cohesion and limits). The system works in temporal cycles and does not automate decisions, but supports governance, expansion and controlled evolution of knowledge structures.
